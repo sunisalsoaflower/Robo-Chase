@@ -1,1 +1,2 @@
 # Robo-Chase
+This was the protoype for a project I did for fundamental of programming on Stencyl in first semester. It was mostly me messing around with stencyl to get a feel what it is and how to operate it. I may have a bit of sentimental attachment to it since it was the first time I ever used a game maker so here it is. I'd like to thanks all the youtube tutorials out there who help noobs like me to get a hang of things. Ciao.
